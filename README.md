@@ -16,11 +16,7 @@ Atuo principalmente com **JavaScript, HTML e CSS**, utilizando biblioteca e fram
 
 ---
 
-## 📊 Status do GitHub
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=3&theme=github_dark&hide_border=true" />
-</p>
+
 
 🔧 **Linguagens em destaque:** JavaScript · HTML · CSS
 
