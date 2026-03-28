@@ -1,7 +1,7 @@
 
 👋 **Olá! Eu sou o Victor de Souza!**
 
-Desenvolvedor **Front-end em formação**, apaixonado por criar interfaces modernas, responsivas e bem organizadas. Busco constantemente boas práticas, clareza de código e uma excelente experiência para o usuário.
+Desenvolvedor **Desenvolvedor Fullstack em formação**, apaixonado por criar interfaces modernas, responsivas e bem organizadas. Busco constantemente boas práticas, clareza de código e uma excelente experiência para o usuário.
 
 Atuo principalmente com **JavaScript, HTML e CSS**, utilizando biblioteca e framework moderno como **React** e **Vue** para desenvolver projetos práticos, funcionais e bem estruturados.
 
