@@ -1,10 +1,10 @@
 # 👋 Olá! Eu sou o Victor de Souza!
 
-### **Desenvolvedor Fullstack em Formação | Product Owner | Entusiasta de Cybersecurity & IA**
+### **Desenvolvedor Fullstack em Formação | Estudante de Cybersecurity & IA**
 
 Sou um desenvolvedor apaixonado por criar interfaces modernas, responsivas e bem organizadas. Busco constantemente o equilíbrio entre **boas práticas**, **clareza de código** e uma **experiência de usuário excepcional**. 
 
-Atualmente, estou expandindo meus horizontes para o ecossistema de **Back-end** e **Segurança**, unindo a construção de interfaces à proteção e performance dos dados.
+Atualmente, estou expandindo meus horizontes para o ecossistema de **Segurança** e **Inteligência Artificial**, unindo a construção de interfaces à proteção e performance dos dados.
 
 ---
 
@@ -23,9 +23,14 @@ Atualmente, estou expandindo meus horizontes para o ecossistema de **Back-end** 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Cybersecurity & IA (Especialização Kensei)**
+### **Infraestrutura, IA & Cloud**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-1a73e8?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+### **Cybersecurity (Especialização Kensei)**
 ![Cybersecurity](https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=looker&logoColor=white)
-> Buscando a maestria no aprendizado (**Kensei**) para construir aplicações resilientes, éticas e seguras através da **Kensei Cyber AI Academy**.
+> Buscando a maestria no aprendizado (**Kensei**) para construir aplicações resilientes e seguras através da **Kensei Cyber AI Academy**.
 
 ---
 
@@ -38,9 +43,9 @@ Atualmente, estou expandindo meus horizontes para o ecossistema de **Back-end** 
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU-PERFIL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souza-victor)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_victordsz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor88dsds88@gmail.com)
 
 ---
 
